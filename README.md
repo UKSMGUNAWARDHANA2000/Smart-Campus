@@ -1,2 +1,1 @@
-# Smart-Campus
- Spring Boot project 
+# it3030-paf-2026-smart-campus-group47
